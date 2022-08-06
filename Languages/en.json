@@ -1,0 +1,9 @@
+{
+  "NO_DESCRIPTION": "There is no description for this command.",
+  "ERROR_LANGUAGE": "You have entered an invalid language.",
+  "CREATED_CHANNEL": "Successfully created the channel %1.",
+  "TOPIC": "The %1 version of the channel %2.",
+  "CREATING_CHANNEL": "Generating the translated channel...",
+  "ERROR_WEBHOOK_CREATE": "An error occured while creating the channel's webhook, Please check my permissions on the server.",
+  "ERROR_CHANNEL_CREATE": "An error occured while creating the channel, Please check my permissions on the server."
+}
